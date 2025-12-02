@@ -80,7 +80,7 @@ At any moment, you might find me:
 * 🎨 **Data Visualization:** telling stories with charts, colors, and aesthetic plots
 * 🧩 **Problem Solving:** turning vague ideas into concrete solutions
 
-## 🌈 Creative Side Quests
+## 🎨 Creative Side Quests
 
 Because I’m more than a collection of NumPy arrays:
 
