@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Sarah Aljudaibi
+# 👋 Hey there, I’m Sarah Aljudaibi 
 
 > “Turning data into insights, insights into action, and action into… more data.”
 
